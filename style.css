@@ -328,7 +328,7 @@ hr {
   div.row.bg-dark.text-light {
     padding-top: 2%;
     padding-left: 5%;
-    width: 100% important!;
+    width: 100% !important;
   }
   .social-color-facebook,
   .social-color-twitter,
@@ -365,7 +365,7 @@ hr {
   .container-fluid {
     background-color: black;
     color: lightgray;
-    width: 100% important!;
+    width: 100% !important;
   }
 
   a {
@@ -399,7 +399,7 @@ hr {
   .text-light {
     padding-top: 2%;
     padding-left: 5%;
-    width: 100% important!;
+    width: 100% !important;
     margin-bottom: -3.125rem;
   }
   .social-color-facebook,
