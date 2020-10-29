@@ -84,11 +84,11 @@ hr {
 /* small devices moble s  max 320px */
 @media only screen and (max-width: 320px) {
   #ani {
-    font-size: 42px;
+    font-size: 2.625rem;
     margin-left: 2.5%;
   }
   noscript h1 {
-    font-size: 42px;
+    font-size: 2.625rem;
     margin-left: 5%;
   }
   #mation {
@@ -148,11 +148,11 @@ hr {
 /* small devices moble s+m  max 375px */
 @media only screen and (max-width: 375px) {
   #ani {
-    font-size: 42px;
+    font-size: 2.625rem;
     margin-left: 2.5%;
   }
   noscript h1 {
-    font-size: 42px;
+    font-size: 2.625rem;
     margin-left: 5%;
   }
   #mation {
@@ -199,7 +199,7 @@ hr {
     width: 100% !important;
   }
   #footer ul {
-    margin-left: 2.5px;
+    margin-left: 0.1563rem;
   }
   .social-color-facebook,
   .social-color-twitter,
@@ -212,11 +212,11 @@ hr {
 /* medium devices min 376px max 480px*/
 @media only screen and (min-width: 376px) and (max-width: 480px) {
   #ani {
-    font-size: 42px;
+    font-size: 2.625rem;
     margin-left: 2.5%;
   }
   noscript h1 {
-    font-size: 42px;
+    font-size: 2.625rem;
     margin-left: 5%;
   }
   #mation {
@@ -278,10 +278,10 @@ hr {
     font-size: 4rem;
   }
   #mation {
-    margin-left: 50px;
+    margin-left: 3.125rem;
     color: white;
     text-decoration: none;
-    font-size: 48px;
+    font-size: 3rem;
     text-align: center;
   }
   noscript {
@@ -303,8 +303,8 @@ hr {
   }
   div .col-8 {
     width: 15.625rem;
-    margin-left: 50px;
-    padding-bottom: 350px;
+    margin-left: 3.125rem;
+    padding-bottom: 21.875rem;
   }
   hr {
     border: 0.031rem solid rgb(250, 1, 175);
@@ -317,7 +317,7 @@ hr {
 
   /* sidebar */
   .col-3 {
-    margin-top: 500px;
+    margin-top: 31.25rem;
     margin-right: 0.313rem;
   }
 
@@ -351,10 +351,10 @@ hr {
     font-size: 4rem;
   }
   #mation {
-    margin-left: 100px;
+    margin-left: 6.25rem;
     color: white;
     text-decoration: none;
-    font-size: 48px;
+    font-size: 3rem;
     text-align: justify;
   }
   noscript {
@@ -377,7 +377,7 @@ hr {
   div .col-8 {
     width: 15.625rem;
     margin-left: 3.125rem;
-    padding-bottom: 600px;
+    padding-bottom: 37.5rem;
   }
   hr {
     border: 0.031rem solid rgb(250, 1, 175);
@@ -399,7 +399,8 @@ hr {
   .text-light {
     padding-top: 2%;
     padding-left: 5%;
-    width: 100%;
+    width: 100% important!;
+    margin-bottom: -3.125rem;
   }
   .social-color-facebook,
   .social-color-twitter,
